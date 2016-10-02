@@ -79,7 +79,6 @@ Your finished product will be a Jupyter Notebook containing your analysis, which
 - A brief write-up on your findings, with one paragraph on your findings and one paragraph on your procedures
 - Recommendations for further analytical procedures on the datasets
 
-> [Solution Code](./code/solution-code.ipynb)
 
 ## Additional Resources
 
